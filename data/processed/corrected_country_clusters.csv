@@ -1,0 +1,11 @@
+Country,Fiscal_Health_Cluster,Normalization_Method
+Egypt,🟡 Moderate Risk,C: Z-Score
+Ethiopia,🟡 Moderate Risk,C: Z-Score
+Ghana,🟡 Moderate Risk,C: Z-Score
+Ivory Coast,🟡 Moderate Risk,C: Z-Score
+Kenya,🟡 Moderate Risk,C: Z-Score
+Nigeria,🔴 High Stress,C: Z-Score
+Rwanda,🟡 Moderate Risk,C: Z-Score
+South Africa,🟢 Stable,C: Z-Score
+Tanzania,🟢 Stable,C: Z-Score
+Togo,🟡 Moderate Risk,C: Z-Score
